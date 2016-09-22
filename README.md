@@ -1,2 +1,6 @@
 # hello-world
 Sample repo...
+
+This si a little about myself...
+
+*** End Transmission - 160922 ***
